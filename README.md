@@ -19,3 +19,8 @@
 #
 #### Day 6
 [lengthOfLastWord.py](https://leetcode.com/problems/length-of-last-word/solutions/6286820/length-of-last-word-walkthrough-by-hecto-jxeg/)
+#
+#### Day 7
+[thekkthFactor.py](https://github.com/hectorsvill/100DaysOfPython/blob/main/thekkthFactor.py)
+
+- [leetcode: Finding the k-th Factor of a Number](https://leetcode.com/problems/the-kth-factor-of-n/solutions/6292118/finding-the-k-th-factor-of-a-number-by-h-k7rd)
