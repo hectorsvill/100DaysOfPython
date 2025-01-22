@@ -24,3 +24,6 @@
 [thekkthFactor.py](https://github.com/hectorsvill/100DaysOfPython/blob/main/thekkthFactor.py)
 
 - [leetcode: Finding the k-th Factor of a Number](https://leetcode.com/problems/the-kth-factor-of-n/solutions/6292118/finding-the-k-th-factor-of-a-number-by-h-k7rd)
+#
+#### Day 8
+[fizzbuzz.py](https://github.com/hectorsvill/100DaysOfPython/blob/main/fizzbuzz.py)
